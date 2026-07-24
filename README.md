@@ -6,11 +6,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently studying on **offenso**
 - 🌱 I’m currently learning **ADIS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Basics of Programming**
-- 📫 Reach me at **[your email]**
+- 📫 Reach me at **prajwalkalayan@gmail.com**
 - ⚡ Fun fact: **I’m always curious to learn new things!**
 
 ---
